@@ -1,4 +1,4 @@
-📊 Customer Churn Analysis Dashboard (Power BI + Python)
+📊 # Customer Churn Analysis Dashboard (Power BI + Python)
 This project provides an end-to-end analysis of customer churn using both Python (for data cleaning and machine learning) and Power BI (for interactive business reporting). The goal is to identify key factors contributing to churn and empower stakeholders with actionable insights.
 
 📁 Project Overview
